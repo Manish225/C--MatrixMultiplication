@@ -9,6 +9,7 @@ using System.Text;
 
 // When creating a new matrix comment MainAsync().Wait(); and uncomment CreateAsync().Wait();
 // When getting and computing comment CreateAsync().Wait(); and uncomment MainAsync().Wait();
+// When suucessful you will see "Kracken approves" in console
 public class Program
 {
     public static void Main(string[] args)
